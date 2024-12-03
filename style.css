@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("image3.jpg");
+    background-size: cover;
+}
+
+
+#section1{
+    width: 50%;
+    height: 100vh;
+    /* background-image: url("student-1.png");
+    background-size: cover; */
+   
+   
+}
+#section1 h2{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+#box2{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#box2 form{
+    width: 70%;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+}
+#box2 form .div1{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-top: 30px;
+}
+#box2 form input{
+   
+    padding: 10px;
+    width: 70%;
+   
+}
+
+#login{
+    margin-top: 20px;
+}
+
+form .new{
+    margin-top: 20px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+form .new a{
+    text-decoration: none;
+}
+form .new #register{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+}

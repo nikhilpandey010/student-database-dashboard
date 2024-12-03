@@ -1,0 +1,232 @@
+{
+  "student-1-btech-cs-sec-1": [
+    {
+      "enrollment": "0133CS221114",
+      "name": "nikhil",
+      "branch": "CS",
+      "city": "B-TECH",
+      "mobile": "8319445617",
+      "fees": "yes",
+      "result": "7 cgpa",
+      "assignment": "submited",
+      "id": "dea8"
+    },
+    {
+      "enrollment": "0133CS221115",
+      "name": "nilesh",
+      "branch": "CS",
+      "city": "B-TECH",
+      "mobile": "831944557",
+      "fees": "NO",
+      "result": "FAIL",
+      "assignment": "NOT SUBMITED",
+      "id": "d928"
+    },
+    {
+      "enrollment": "0133CS221119",
+      "name": "om agarwal",
+      "branch": "CS",
+      "city": "B-TECH",
+      "mobile": "831944557",
+      "fees": "NO",
+      "result": "7 CGPA",
+      "assignment": "NOT SUBMITED",
+      "id": "dcc3"
+    },
+    {
+      "enrollment": "0133CS221096",
+      "name": "myank pandey",
+      "branch": "CS",
+      "city": "B-TECH",
+      "mobile": "8575747383",
+      "fees": "NO",
+      "result": "FAIL",
+      "assignment": "NOT SUBMITED",
+      "id": "3dd0"
+    },
+    {
+      "enrollment": "0133CS221114",
+      "name": "GURU",
+      "branch": "CS",
+      "city": "BHOPAL",
+      "mobile": "896788868568",
+      "fees": "undefined",
+      "result": "PASS",
+      "assignment": "YES",
+      "id": "5410"
+    },
+    {
+      "id": "986b",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "result": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "id": "290c",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "result": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "enrollment": "2222",
+      "name": "",
+      "branch": "CS",
+      "city": "",
+      "mobile": "",
+      "fees": "undefined",
+      "result": "",
+      "assignment": "undefined",
+      "id": "d43d"
+    },
+    {
+      "id": "34de",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "result": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "id": "d25d",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "id": "9b3f",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "id": "9d25",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "id": "4b60",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "id": "0102",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "mobile": "",
+      "branch": "CS"
+    }
+  ],
+  "student-1-btech-cs-sec-2": [
+    {
+      "enrollment": "0133CS221121",
+      "name": "alpha",
+      "branch": "CS",
+      "city": "B-TECH",
+      "mobile": "8319445623",
+      "fees": "NO",
+      "result": "PASS",
+      "assignment": " SUBMITED",
+      "id": "971c"
+    },
+    {
+      "enrollment": "0133CS221121",
+      "name": "beta",
+      "branch": "CS",
+      "course": "B-TECH",
+      "mobile": "831941553",
+      "fees": "NO",
+      "result": "PASS",
+      "assignment": " SUBMITED",
+      "id": "8fa3"
+    },
+    {
+      "enrollment": "0133CS221122",
+      "name": "gama",
+      "branch": "CS",
+      "city": "Bhopal",
+      "mobile": "831944557",
+      "fees": "YES",
+      "result": "PASS",
+      "assignment": " SUBMITED",
+      "id": "f8ca"
+    },
+    {
+      "enrollment": "0133CS221123",
+      "name": "alpha coder",
+      "branch": "CS",
+      "city": "B-TECH",
+      "mobile": "831577533",
+      "fees": "NO",
+      "result": "FAIL",
+      "assignment": " NOT-SUBMITED",
+      "id": "ab5a"
+    },
+    {
+      "enrollment": "",
+      "name": "",
+      "branch": "CS",
+      "city": "",
+      "mobile": "",
+      "fees": "undefined",
+      "result": "",
+      "assignment": "undefined",
+      "id": "8353"
+    },
+    {
+      "id": "52f6",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "result": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "id": "b324",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "result": "",
+      "mobile": "",
+      "branch": "CS"
+    },
+    {
+      "enrollment": "12121",
+      "name": "",
+      "branch": "CS",
+      "city": "",
+      "mobile": "",
+      "fees": "undefined",
+      "result": "",
+      "assignment": "undefined",
+      "id": "cb9b"
+    },
+    {
+      "id": "1440",
+      "enrollment": "",
+      "name": "",
+      "city": "",
+      "result": "",
+      "mobile": "",
+      "branch": "CS"
+    }
+  ]
+}
